@@ -360,13 +360,13 @@ class VividSeats_Webservice
          * Uncomment for debugging to see the actual request and response
          */
         /**
-         */
         echo PHP_EOL;
         var_dump($this->getRestClient()->getHttpClient()->getLastRequest());
         echo PHP_EOL . PHP_EOL . PHP_EOL . PHP_EOL;
         echo PHP_EOL;
         var_dump($this->getRestClient()->getHttpClient()->getLastResponse());
         echo PHP_EOL . PHP_EOL . PHP_EOL . PHP_EOL;
+         */
 
 
         if ($response->isError()) {
