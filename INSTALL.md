@@ -9,7 +9,7 @@ same library directory that is in your PHP include_path.
 
 SYSTEM REQUIREMENTS
 -------------------
-Vivid Seats Framework for PHP requires PHP 5.3 or later and Zend Framework.
+Vivid Seats Framework for PHP requires PHP 5.3 or later and Zend Framework 1.
 Please see the system requirements appendix for more detailed information:
 
 
