@@ -10,7 +10,7 @@ Initial Release
 
 SYSTEM REQUIREMENTS
 -------------------
-Ticket Evolution Framework for PHP requires PHP 5.3 or later and Zend Framework.
+Vivid Seats Framework for PHP requires PHP 5.3 or later and Zend Framework.
 Please see our reference guide for more detailed system requirements:
 
 https://github.com/TeamOneTickets/VividSeats/wiki
@@ -18,7 +18,7 @@ https://github.com/TeamOneTickets/VividSeats/wiki
 
 INSTALLATION
 ------------
-Please see INSTALL.txt.
+Please see INSTALL.md.
 
 
 QUESTIONS AND FEEDBACK
